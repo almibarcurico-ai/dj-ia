@@ -629,3 +629,4 @@ Las actions son opcionales. Solo incluye las que correspondan.`;
     </div>
   );
 }
+export default DJIA;
